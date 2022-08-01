@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-z1q5s8/static/css/main.96888661.chunk.css",
+    "main.js": "https://.github.io/csb-z1q5s8/static/js/main.bb9881bc.chunk.js",
+    "main.js.map": "https://.github.io/csb-z1q5s8/static/js/main.bb9881bc.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-z1q5s8/static/js/runtime-main.f7c03a0f.js",
+    "runtime-main.js.map": "https://.github.io/csb-z1q5s8/static/js/runtime-main.f7c03a0f.js.map",
+    "static/js/2.8fe934f6.chunk.js": "https://.github.io/csb-z1q5s8/static/js/2.8fe934f6.chunk.js",
+    "static/js/2.8fe934f6.chunk.js.map": "https://.github.io/csb-z1q5s8/static/js/2.8fe934f6.chunk.js.map",
+    "index.html": "https://.github.io/csb-z1q5s8/index.html",
+    "static/css/main.96888661.chunk.css.map": "https://.github.io/csb-z1q5s8/static/css/main.96888661.chunk.css.map",
+    "static/js/2.8fe934f6.chunk.js.LICENSE.txt": "https://.github.io/csb-z1q5s8/static/js/2.8fe934f6.chunk.js.LICENSE.txt",
+    "static/media/blur-layer.14b88556.webp": "https://.github.io/csb-z1q5s8/static/media/blur-layer.14b88556.webp",
+    "static/media/hero-wave.146c53ed.svg": "https://.github.io/csb-z1q5s8/static/media/hero-wave.146c53ed.svg",
+    "static/media/mountain1.1b4e4802.svg": "https://.github.io/csb-z1q5s8/static/media/mountain1.1b4e4802.svg",
+    "static/media/mountain2.9a5bf067.svg": "https://.github.io/csb-z1q5s8/static/media/mountain2.9a5bf067.svg",
+    "static/media/mountain3.47e30c92.svg": "https://.github.io/csb-z1q5s8/static/media/mountain3.47e30c92.svg",
+    "static/media/mountain4.172e854a.svg": "https://.github.io/csb-z1q5s8/static/media/mountain4.172e854a.svg",
+    "static/media/mountain5.5d9d098c.svg": "https://.github.io/csb-z1q5s8/static/media/mountain5.5d9d098c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7c03a0f.js",
+    "static/js/2.8fe934f6.chunk.js",
+    "static/css/main.96888661.chunk.css",
+    "static/js/main.bb9881bc.chunk.js"
+  ]
+}
